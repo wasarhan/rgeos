@@ -22,7 +22,7 @@ License: GPL (>= 2)
 URL: https://r-forge.r-project.org/projects/rgeos/ https://libgeos.org
         http://rgeos.r-forge.r-project.org/index.html
 SystemRequirements: GEOS (>= 3.2.0).
-RoxygenNote: 6.1.1
+RoxygenNote: 7.3.2
 Packaged: 2023-07-18 10:10:48 UTC; rsb
 Author: Roger Bivand [cre, aut] (<https://orcid.org/0000-0003-2392-6140>),
   Colin Rundel [aut],
